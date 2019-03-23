@@ -10,7 +10,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $travis-token  # Set in the settings page of your repository, as a secure variable
+  github_token: $gh_token  # Set in the settings page of your repository, as a secure variable
   local_dir: build
   on:
     branch: master
