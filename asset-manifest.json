@@ -1,0 +1,14 @@
+{
+  "main.css": "/test-travis/static/css/main.7ca9c07e.chunk.css",
+  "main.js": "/test-travis/static/js/main.15139fd3.chunk.js",
+  "main.js.map": "/test-travis/static/js/main.15139fd3.chunk.js.map",
+  "runtime~main.js": "/test-travis/static/js/runtime~main.35d826e4.js",
+  "runtime~main.js.map": "/test-travis/static/js/runtime~main.35d826e4.js.map",
+  "static/js/2.8f71a45e.chunk.js": "/test-travis/static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "/test-travis/static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "/test-travis/index.html",
+  "precache-manifest.ff253b1094b4a2b2ba3951a8092d189d.js": "/test-travis/precache-manifest.ff253b1094b4a2b2ba3951a8092d189d.js",
+  "service-worker.js": "/test-travis/service-worker.js",
+  "static/css/main.7ca9c07e.chunk.css.map": "/test-travis/static/css/main.7ca9c07e.chunk.css.map",
+  "static/media/logo.svg": "/test-travis/static/media/logo.5d5d9eef.svg"
+}
